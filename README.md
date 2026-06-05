@@ -41,13 +41,7 @@ Mobile:     React Native · Expo (iOS & Android)
 - **Product thinking** — I ask "why" before I ask "how"
 - **Remote fluency** — hybrid/remote experience, strong async communication
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeontinoMad&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeontinoMad&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-📍 Kyiv, Ukraine | 💼 Open to remote opportunities
+📍 Lviv, Ukraine | 💼 Open to remote opportunities
