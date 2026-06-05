@@ -1,4 +1,4 @@
-# Hey, I'm Dmytro 👋
+
 
 **Senior Full-Stack Developer · 5+ Years · Remote**
 React · Next.js · Node.js · TypeScript · React Native
